@@ -1,4 +1,4 @@
-# sport_updates
+# sport_news_and_predictions
 
 A new Flutter project.
 
